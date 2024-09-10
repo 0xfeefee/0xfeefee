@@ -1,16 +1,13 @@
-## Hi there 👋
+## ⚠️Missing in action⚠️
+Since March 2024, I've stopped using **GitHub** for my personal projects.
 
-<!--
-**0xfeefee/0xfeefee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ℹ️ Collaborators
+Please contact me via [e-mail](mailto:gitea@koikoder.com) so I can give you access rights to the private **Gitea** instance!
 
-Here are some ideas to get you started:
+#### ℹ️ Recruiters/Companies
+- You can find the demo project here: [Leonard](https://github.com/0xfeefee/Leonard) (When it's done)
+- If you are a technical person I also accept feedback for my projects here: [e-mail](mailto:feedback@koikoder.com). 
+- (*Please keep in mind that this project is just a short demonstration of some general competence and not the next Unreal Engine. I'm only spending on average 90 minutes a day on it so it won't break any records.*).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🐀 of gRATitude
+Thank you for your time.
