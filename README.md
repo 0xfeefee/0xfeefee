@@ -1,4 +1,5 @@
 ## Hello, World
+- **Unavailable from: January 12, 2025 to January 28, 2025**.
 - Personal website: [filip-gacina.me](https://www.filip-gacina.me) (Update in progress)
 - Most recent public projects:
   * [JunkBox_2007](https://www.github.com/0xfeefee/JunkBox_2007): 2D game engine, designed to emulate my experience building games on my home computer in 2007.
